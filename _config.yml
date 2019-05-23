@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Five-Dollar Shake (gh)
+name: Five-Dollar Shake (ghp)
 
 # Short bio or description (displayed in the header)
 description: A shake, Milk and ice cream. Would you like to know what a five-dollar shake tastes like? Be my guest. You can use my straw, I dont have kooties.
@@ -26,7 +26,7 @@ footer-links:
   linkedin: ruben.llibre
   pinterest:
   rss: x# just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
